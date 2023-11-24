@@ -4,4 +4,5 @@ This repository contains 2 Jupyter notebooks to enable users to run spaCy's NER 
 Read the report "Extracting Named Actors from Text: Using Named Entity Recognition (NER) in Peace and Conflict Studies" to get an overview of the possible use cases, methods, applications and implications of using NER in peace and conflict studies.
 
 Author: Niamh Henry, 2023
+
 Code and data credits: Roy Gardner, Niamh Henry and Sanja Badanjak.
