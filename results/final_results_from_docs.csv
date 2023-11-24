@@ -1,0 +1,314 @@
+mention_id,sentence_id,doc_id,doc_name,sentence_number,entity,entity type,type,actor_id_type,actor_name,new_actor_type,abbreviation,country_based,iso3c
+0,0/1,0,482,1,Islamic State,ORG,mentioned in agt text,ARM_512,Islamic State of Iraq and Levant,Armed Organization,ISIS,Iraq,IRQ
+1,0/1,0,482,1,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+2,0/2,0,482,2,Hazrat Sahib,ORG,mentioned in agt text,0,,,,,
+3,0/2,0,482,2,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+4,0/2,0,482,2,Kabul,GPE,mentioned in agt text,0,,,,,
+5,0/3,0,482,3,State,ORG,mentioned in agt text,0,,,,,
+6,0/4,0,482,4,Islamic Council,ORG,mentioned in agt text,0,,,,,
+7,0/4,0,482,4,Transitional State,ORG,mentioned in agt text,0,,,,,
+8,0/4,0,482,4,Hazrat Sahib,ORG,mentioned in agt text,0,,,,,
+9,0/5,0,482,5,Council,ORG,mentioned in agt text,0,,,,,
+10,0/7,0,482,7,Transitional Islamic State,ORG,mentioned in agt text,0,,,,,
+11,0/7,0,482,7,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+12,0/7,0,482,7,Leadership Council,ORG,mentioned in agt text,0,,,,,
+13,0/12,0,482,12,Cabinet,ORG,mentioned in agt text,0,,,,,
+14,0/12,0,482,12,Tanzeemat,ORG,mentioned in agt text,0,,,,,
+15,0/14,0,482,14,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+16,0/16,0,482,16,Ministry Interior,ORG,mentioned in agt text,0,,,,,
+17,0/16,0,482,16,Ittehad - e - Islami,ORG,mentioned in agt text,POL_446,Ittehad-e-Islami,Political Party,,Afghanistan,AFG
+18,0/16,0,482,16,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+19,0/18,0,482,18,Ministry Education,ORG,mentioned in agt text,0,,,,,
+20,0/20,0,482,20,Ministry Foreign Affairs,ORG,mentioned in agt text,0,,,,,
+21,0/20,0,482,20,National Islamic,ORG,mentioned in agt text,POL_448,National Islamic Front of Afghanistan,Political Party,,Afghanistan,AFG
+22,0/22,0,482,22,Ministry Defence,ORG,mentioned in agt text,0,,,,,
+23,0/22,0,482,22,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+24,0/24,0,482,24,Supreme Court,ORG,mentioned in agt text,0,,,,,
+25,0/24,0,482,24,Harkat,ORG,mentioned in agt text,0,,,,,
+26,0/26,0,482,26,Leadership Council,ORG,mentioned in agt text,0,,,,,
+27,0/26,0,482,26,Ministries,ORG,mentioned in agt text,0,,,,,
+28,0/26,0,482,26,Ministries Hizb - e - Wahdat,ORG,mentioned in agt text,0,,,,,
+30,0/29,0,482,29,Islamic Council,ORG,mentioned in agt text,0,,,,,
+32,1/0,1,848,0,International Afghanistan Conference,ORG,mentioned in agt text,0,,,,,
+33,1/0,1,848,0,Bonn,GPE,mentioned in agt text,0,,,,,
+34,1/0,1,848,0,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+35,1/0,1,848,0,International Community : Transition,ORG,mentioned in agt text,0,,,,,
+36,01-Jan,1,848,1,Islamic Republic Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+37,01-Jan,1,848,1,International Community,ORG,mentioned in agt text,OTH_206,International Community,Other,,,
+38,01-Jan,1,848,1,Bonn,GPE,mentioned in agt text,0,,,,,
+39,01-Jan,1,848,1,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+40,01-Jan,1,848,1,Afghan,NORP,mentioned in agt text,0,,,,,
+41,01-Feb,1,848,2,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+42,01-Mar,1,848,3,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+43,01-Mar,1,848,3,solidarity,ORG,mentioned in agt text,0,,,,,
+44,01-May,1,848,5,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+45,01-May,1,848,5,International Community,ORG,mentioned in agt text,OTH_206,International Community,Other,,,
+46,01-May,1,848,5,Federal Republic Germany,GPE,mentioned in agt text,CON_2,Germany,Country/State,GMY,Germany,DEU
+47,01-Jun,1,848,6,Germany,GPE,mentioned in agt text,CON_2,Germany,Country/State,GMY,Germany,DEU
+48,01-Jun,1,848,6,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+49,01-Jun,1,848,6,International Community,ORG,mentioned in agt text,OTH_206,International Community,Other,,,
+50,01-Aug,1,848,8,Petersberg,GPE,mentioned in agt text,0,,,,,
+51,01-Aug,1,848,8,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+52,01-Aug,1,848,8,International Community,ORG,mentioned in agt text,OTH_206,International Community,Other,,,
+53,01-Sep,1,848,9,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+54,01-Oct,1,848,10,Afghan,NORP,mentioned in agt text,0,,,,,
+55,01-Nov,1,848,11,Al Qaida,ORG,mentioned in agt text,ARM_1097,al-Qaida,Armed Organization,,Afghanistan,AFG
+56,01-Nov,1,848,11,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+57,Jan-15,1,848,15,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+58,Jan-15,1,848,15,Afghans,NORP,mentioned in agt text,0,,,,,
+59,Jan-16,1,848,16,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+60,Jan-18,1,848,18,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+61,Jan-18,1,848,18,Germany,GPE,mentioned in agt text,CON_2,Germany,Country/State,GMY,Germany,DEU
+62,Jan-18,1,848,18,International Community,ORG,mentioned in agt text,OTH_206,International Community,Other,,,
+63,Jan-19,1,848,19,Kabul Process,ORG,mentioned in agt text,0,,,,,
+64,Jan-19,1,848,19,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+65,Jan-19,1,848,19,International Community,ORG,mentioned in agt text,OTH_206,International Community,Other,,,
+66,Jan-21,1,848,21,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+67,Jan-22,1,848,22,Afghan,NORP,mentioned in agt text,0,,,,,
+68,Jan-22,1,848,22,democratic society,ORG,mentioned in agt text,0,,,,,
+69,Jan-23,1,848,23,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+70,Jan-24,1,848,24,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+71,Jan-24,1,848,24,International Community,ORG,mentioned in agt text,OTH_206,International Community,Other,,,
+72,Jan-26,1,848,26,Afghan,NORP,mentioned in agt text,0,,,,,
+73,Jan-27,1,848,27,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+74,Jan-31,1,848,31,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+75,Jan-32,1,848,32,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+76,Jan-33,1,848,33,Afghan,NORP,mentioned in agt text,0,,,,,
+77,Jan-37,1,848,37,Afghan,NORP,mentioned in agt text,0,,,,,
+78,Jan-37,1,848,37,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+79,Jan-38,1,848,38,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+80,Jan-38,1,848,38,national sub‐national,ORG,mentioned in agt text,0,,,,,
+81,Jan-40,1,848,40,United Nations,ORG,mentioned in agt text,IGO_49,United Nations (General),Intergovernmental Organization,UN,,
+82,Jan-40,1,848,40,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+83,Jan-41,1,848,41,UN,ORG,mentioned in agt text,IGO_49,United Nations (General),Intergovernmental Organization,UN,,
+84,Jan-41,1,848,41,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+85,Jan-42,1,848,42,UNAMA,NORP,mentioned in agt text,0,,,,,
+86,Jan-42,1,848,42,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+87,Jan-42,1,848,42,Afghan Government,ORG,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+88,Jan-43,1,848,43,International Contact Group,ORG,mentioned in agt text,0,,,,,
+89,Jan-43,1,848,43,Afghan Government,ORG,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+90,Jan-45,1,848,45,Afghan,NORP,mentioned in agt text,0,,,,,
+91,Jan-46,1,848,46,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+92,Jan-48,1,848,48,Transition,ORG,mentioned in agt text,0,,,,,
+93,Jan-49,1,848,49,Afghan,NORP,mentioned in agt text,0,,,,,
+94,Jan-50,1,848,50,International Security Assistance Force,ORG,mentioned in agt text,0,,,,,
+95,Jan-50,1,848,50,ISAF,ORG,mentioned in agt text,0,,,,,
+96,Jan-50,1,848,50,UN Security Council,ORG,mentioned in agt text,IGO_8,UN Security Council,Intergovernmental Organization,UNSC,,
+97,Jan-51,1,848,51,Transition,ORG,mentioned in agt text,0,,,,,
+98,Jan-51,1,848,51,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+99,Jan-52,1,848,52,International Community,ORG,mentioned in agt text,OTH_206,International Community,Other,,,
+100,Jan-52,1,848,52,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+101,Jan-54,1,848,54,Afghan National Security Forces,ORG,mentioned in agt text,0,,,,,
+102,Jan-55,1,848,55,ANSF,ORG,mentioned in agt text,0,,,,,
+103,Jan-55,1,848,55,International Community,ORG,mentioned in agt text,OTH_206,International Community,Other,,,
+104,Jan-56,1,848,56,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+105,Jan-57,1,848,57,ANSF,ORG,mentioned in agt text,0,,,,,
+106,Jan-57,1,848,57,NATO,ORG,mentioned in agt text,IGO_406,North Atlantic Treaty Organization,Intergovernmental Organization,NATO,,
+107,Jan-57,1,848,57,Chicago,GPE,mentioned in agt text,0,,,,,
+108,Jan-59,1,848,59,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+109,Jan-60,1,848,60,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+110,Jan-61,1,848,61,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+111,Jan-63,1,848,63,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+112,Jan-64,1,848,64,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+113,Jan-64,1,848,64,International Community,ORG,mentioned in agt text,OTH_206,International Community,Other,,,
+114,Jan-67,1,848,67,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+115,Jan-68,1,848,68,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+116,Jan-69,1,848,69,Afghan,NORP,mentioned in agt text,0,,,,,
+117,Jan-71,1,848,71,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+118,Jan-71,1,848,71,High Peace Council,ORG,mentioned in agt text,0,,,,,
+119,Jan-72,1,848,72,International Community,ORG,mentioned in agt text,OTH_206,International Community,Other,,,
+120,Jan-72,1,848,72,Afghan Government,ORG,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+121,Jan-72,1,848,72,High Peace Council,ORG,mentioned in agt text,0,,,,,
+122,Jan-72,1,848,72,Reintegration Programme,ORG,mentioned in agt text,0,,,,,
+123,Jan-75,1,848,75,UN,ORG,mentioned in agt text,IGO_49,United Nations (General),Intergovernmental Organization,UN,,
+124,Jan-75,1,848,75,International Community,ORG,mentioned in agt text,OTH_206,International Community,Other,,,
+125,Jan-75,1,848,75,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+126,Jan-75,1,848,75,Afghan‐owned,ORG,mentioned in agt text,0,,,,,
+127,Jan-76,1,848,76,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+128,Jan-77,1,848,77,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+129,Jan-82,1,848,82,International Community,ORG,mentioned in agt text,OTH_206,International Community,Other,,,
+130,Jan-84,1,848,84,International Community,ORG,mentioned in agt text,OTH_206,International Community,Other,,,
+131,Jan-84,1,848,84,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+132,Jan-84,1,848,84,Afghan Government ’s,ORG,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+133,Jan-85,1,848,85,International Community,ORG,mentioned in agt text,OTH_206,International Community,Other,,,
+134,Jan-85,1,848,85,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+135,Jan-85,1,848,85,Afghan Government ’s,ORG,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+136,Jan-85,1,848,85,National Priority Programmes,ORG,mentioned in agt text,0,,,,,
+137,Jan-85,1,848,85,Kabul Process,ORG,mentioned in agt text,0,,,,,
+138,Jan-87,1,848,87,Afghan,NORP,mentioned in agt text,0,,,,,
+139,Jan-87,1,848,87,Kabul,GPE,mentioned in agt text,0,,,,,
+140,Jan-87,1,848,87,London,GPE,mentioned in agt text,0,,,,,
+141,Jan-87,1,848,87,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+142,Jan-88,1,848,88,Japan,GPE,mentioned in agt text,CON_294,Japan,Country/State,JPN,Japan,JPN
+143,Jan-88,1,848,88,Tokyo,GPE,mentioned in agt text,0,,,,,
+144,Jan-88,1,848,88,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+145,Jan-90,1,848,90,World Bank,ORG,mentioned in agt text,IGO_437,World Bank,Intergovernmental Organization,WB,,
+146,Jan-90,1,848,90,International Monetary Fund,ORG,mentioned in agt text,IGO_438,International Monetary Fund,Intergovernmental Organization,IMF,,
+147,Jan-91,1,848,91,Kabul Process,ORG,mentioned in agt text,0,,,,,
+148,Jan-92,1,848,92,International Community,ORG,mentioned in agt text,OTH_206,International Community,Other,,,
+149,Jan-92,1,848,92,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+150,Jan-94,1,848,94,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+151,Jan-95,1,848,95,International Community ’s,ORG,mentioned in agt text,0,,,,,
+152,Jan-95,1,848,95,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+153,Jan-97,1,848,97,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+154,Jan-97,1,848,97,Transition,ORG,mentioned in agt text,0,,,,,
+155,Jan-98,1,848,98,International Community,ORG,mentioned in agt text,OTH_206,International Community,Other,,,
+156,Jan-98,1,848,98,Kabul Process,ORG,mentioned in agt text,0,,,,,
+157,Jan-98,1,848,98,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+158,1/100,1,848,100,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+159,1/101,1,848,101,International Community,ORG,mentioned in agt text,OTH_206,International Community,Other,,,
+160,1/101,1,848,101,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+161,1/102,1,848,102,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+162,1/102,1,848,102,Afghan,NORP,mentioned in agt text,0,,,,,
+163,1/103,1,848,103,International Community,ORG,mentioned in agt text,OTH_206,International Community,Other,,,
+164,1/103,1,848,103,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+165,1/105,1,848,105,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+166,1/106,1,848,106,International Community,ORG,mentioned in agt text,OTH_206,International Community,Other,,,
+167,1/106,1,848,106,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+168,1/108,1,848,108,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+169,1/109,1,848,109,Afghan Government,ORG,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+170,1/109,1,848,109,EUROMINES International Investors Forum,ORG,mentioned in agt text,0,,,,,
+171,1/109,1,848,109,Brussels,GPE,mentioned in agt text,0,,,,,
+172,1/111,1,848,111,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+173,1/113,1,848,113,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+174,1/114,1,848,114,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+175,1/116,1,848,116,“ Istanbul Conference,ORG,mentioned in agt text,0,,,,,
+176,1/116,1,848,116,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+177,1/116,1,848,116,Asia,LOC,mentioned in agt text,0,,,,,
+178,1/117,1,848,117,Asia,LOC,mentioned in agt text,0,,,,,
+179,1/118,1,848,118,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+181,1/118,1,848,118,Kabul,GPE,mentioned in agt text,0,,,,,
+182,1/120,1,848,120,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+183,1/120,1,848,120,South Asia,LOC,mentioned in agt text,0,,,,,
+184,1/120,1,848,120,Central Asia,LOC,mentioned in agt text,0,,,,,
+185,1/120,1,848,120,Eurasia,GPE,mentioned in agt text,0,,,,,
+186,1/120,1,848,120,Middle East,LOC,mentioned in agt text,0,,,,,
+187,1/121,1,848,121,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+189,1/123,1,848,123,Republic Tajikistan,GPE,mentioned in agt text,CON_62,Tajikistan,Country/State,TAJ,Tajikistan,TJK
+190,1/123,1,848,123,Dushanbe,GPE,mentioned in agt text,0,,,,,
+191,1/125,1,848,125,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+192,1/125,1,848,125,Pakistan,GPE,mentioned in agt text,CON_395,Pakistan,Country/State,PAK,Pakistan,PAK
+193,1/125,1,848,125,Iran,GPE,mentioned in agt text,CON_289,Iran (Islamic Republic of),Country/State,IRN,Iran (Islamic Republic of),IRN
+194,1/125,1,848,125,Afghans,NORP,mentioned in agt text,0,,,,,
+196,1/127,1,848,127,Transition,ORG,mentioned in agt text,0,,,,,
+197,1/127,1,848,127,Transformation,ORG,mentioned in agt text,0,,,,,
+198,1/127,1,848,127,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+199,1/128,1,848,128,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+200,1/128,1,848,128,International Community,ORG,mentioned in agt text,OTH_206,International Community,Other,,,
+201,1/130,1,848,130,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+202,1/131,1,848,131,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+203,1/133,1,848,133,International Community,ORG,mentioned in agt text,OTH_206,International Community,Other,,,
+204,1/133,1,848,133,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+205,1/134,1,848,134,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+206,1/134,1,848,134,International Community,ORG,mentioned in agt text,OTH_206,International Community,Other,,,
+207,1/136,1,848,136,Bonn,GPE,mentioned in agt text,0,,,,,
+208,1/136,1,848,136,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+209,1/136,1,848,136,International Community,ORG,mentioned in agt text,OTH_206,International Community,Other,,,
+210,1/136,1,848,136,Petersberg,GPE,mentioned in agt text,0,,,,,
+211,1/137,1,848,137,Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+212,1/137,1,848,137,International Community,ORG,mentioned in agt text,OTH_206,International Community,Other,,,
+213,1/138,1,848,138,Islamic Republic Afghanistan,GPE,mentioned in agt text,CON_288,Afghanistan,Country/State,AFG,Afghanistan,AFG
+214,1/138,1,848,138,Republic Albania,GPE,mentioned in agt text,CON_587,Albania,Country/State,ALB,Albania,ALB
+215,1/138,1,848,138,People ’s Democratic Republic Algeria,ORG,mentioned in agt text,CON_255,Algeria,Country/State,ALG,Algeria,DZA
+216,1/138,1,848,138,Argentine Republic,GPE,mentioned in agt text,CON_9,Argentina,Country/State,ARG,Argentina,ARG
+217,1/138,1,848,138,Republic Armenia,GPE,mentioned in agt text,CON_61,Armenia,Country/State,ARM,Armenia,ARM
+218,1/138,1,848,138,Australia,GPE,mentioned in agt text,CON_277,Australia,Country/State,AUL,Australia,AUS
+219,1/138,1,848,138,Republic Austria,GPE,mentioned in agt text,CON_588,Austria,Country/State,AUS,Austria,AUT
+220,1/138,1,848,138,Republic Azerbaijan,GPE,mentioned in agt text,CON_59,Azerbaijan,Country/State,AZE,Azerbaijan,AZE
+221,1/138,1,848,138,Kingdom Bahrain,GPE,mentioned in agt text,CON_18,Bahrain,Country/State,BAH,Bahrain,BHR
+222,1/138,1,848,138,People ’s Republic Bangladesh,ORG,mentioned in agt text,CON_287,Bangladesh,Country/State,BNG,Bangladesh,BGD
+223,1/138,1,848,138,Kingdom Belgium,GPE,mentioned in agt text,CON_441,Belgium,Country/State,BEL,Belgium,BEL
+224,1/138,1,848,138,Bosnia Herzegovina,GPE,mentioned in agt text,CON_0,Bosnia and Herzegovina,Country/State,BOS,Bosnia and Herzegovina,BIH
+225,1/138,1,848,138,Federative Republic Brazil,GPE,mentioned in agt text,CON_15,Brazil,Country/State,BRA,Brazil,BRA
+226,1/138,1,848,138,Brunei Darussalam,GPE,mentioned in agt text,CON_292,Brunei,Country/State,BRU,Brunei Darussalam,BRN
+227,1/138,1,848,138,Republic Bulgaria,GPE,mentioned in agt text,CON_589,Bulgaria,Country/State,BUL,Bulgaria,BGR
+228,1/138,1,848,138,Canada,GPE,mentioned in agt text,CON_11,Canada,Country/State,CAN,Canada,CAN
+229,1/138,1,848,138,People ’s Republic China,ORG,mentioned in agt text,CON_20,China,Country/State,CHN,China,CHN
+230,1/138,1,848,138,Republic Colombia,GPE,mentioned in agt text,CON_181,Colombia,Country/State,COL,Colombia,COL
+231,1/138,1,848,138,Republic Croatia,GPE,mentioned in agt text,CON_1,Croatia,Country/State,CRO,Croatia,HRV
+232,1/138,1,848,138,Republic Cyprus,GPE,mentioned in agt text,0,,,,,
+233,1/138,1,848,138,Czech Republic,GPE,mentioned in agt text,CON_637,Czechia,Country/State,CZR,Czechia,CZE
+234,1/138,1,848,138,Kingdom Denmark,GPE,mentioned in agt text,CON_604,Denmark,Country/State,DEN,Denmark,DNK
+235,1/138,1,848,138,Arab Republic Egypt,GPE,mentioned in agt text,CON_82,Egypt,Country/State,EGY,Egypt,EGY
+236,1/138,1,848,138,Republic El Salvador,GPE,mentioned in agt text,CON_300,El Salvador,Country/State,SAL,El Salvador,SLV
+237,1/138,1,848,138,Republic Estonia,GPE,mentioned in agt text,CON_605,Estonia,Country/State,EST,Estonia,EST
+238,1/138,1,848,138,Republic Finland,GPE,mentioned in agt text,CON_171,Finland,Country/State,FIN,Finland,FIN
+239,1/138,1,848,138,French Republic,GPE,mentioned in agt text,CON_7,France,Country/State,FRN,France,FRA
+240,1/138,1,848,138,Georgia,GPE,mentioned in agt text,CON_45,Georgia,Country/State,GRG,Georgia,GEO
+241,1/138,1,848,138,Federal Republic Germany,GPE,mentioned in agt text,CON_2,Germany,Country/State,GMY,Germany,DEU
+242,1/138,1,848,138,Hellenic Republic,GPE,mentioned in agt text,0,,,,,
+243,1/138,1,848,138,Republic Hungary,GPE,mentioned in agt text,CON_602,Hungary,Country/State,HUN,Hungary,HUN
+244,1/138,1,848,138,Republic Iceland,GPE,mentioned in agt text,CON_601,Iceland,Country/State,ICE,Iceland,ISL
+245,1/138,1,848,138,Republic India,GPE,mentioned in agt text,CON_70,India,Country/State,IND,India,IND
+246,1/138,1,848,138,Republic Indonesia,GPE,mentioned in agt text,CON_162,Indonesia,Country/State,INS,Indonesia,IDN
+247,1/138,1,848,138,Islamic Republic Iran,GPE,mentioned in agt text,CON_289,Iran (Islamic Republic of),Country/State,IRN,Iran (Islamic Republic of),IRN
+248,1/138,1,848,138,Republic Iraq,GPE,mentioned in agt text,CON_75,Iraq,Country/State,IRQ,Iraq,IRQ
+249,1/138,1,848,138,Ireland,GPE,mentioned in agt text,CON_169,Ireland,Country/State,IRE,Ireland,IRL
+250,1/138,1,848,138,Republic Italy,GPE,mentioned in agt text,CON_139,Italy,Country/State,ITA,Italy,ITA
+251,1/138,1,848,138,Japan,GPE,mentioned in agt text,CON_294,Japan,Country/State,JPN,Japan,JPN
+252,1/138,1,848,138,Hashemite Kingdom,GPE,mentioned in agt text,0,,,,,
+253,1/138,1,848,138,Jordan,GPE,mentioned in agt text,CON_78,Jordan,Country/State,JOR,Jordan,JOR
+254,1/138,1,848,138,Republic Kazakhstan,GPE,mentioned in agt text,CON_56,Kazakhstan,Country/State,KZK,Kazakhstan,KAZ
+255,1/138,1,848,138,Republic Korea,GPE,mentioned in agt text,CON_458,South Korea,Country/State,ROK,"Korea, Republic of",KOR
+256,1/138,1,848,138,State Kuwait,GPE,mentioned in agt text,CON_563,Kuwait,Country/State,KUW,Kuwait,KWT
+257,1/138,1,848,138,Kyrgyz Republic,GPE,mentioned in agt text,CON_55,Kyrgyzstan,Country/State,KYR,Kyrgyzstan,KGZ
+258,1/138,1,848,138,Republic Latvia,GPE,mentioned in agt text,CON_615,Latvia,Country/State,LAT,Latvia,LVA
+259,1/138,1,848,138,Lebanese Republic,GPE,mentioned in agt text,CON_79,Lebanon,Country/State,LEB,Lebanon,LBN
+260,1/138,1,848,138,Liechtenstein,GPE,mentioned in agt text,CON_613,Liechtenstein,Country/State,,Liechtenstein,LIE
+261,1/138,1,848,138,Republic Lithuania,GPE,mentioned in agt text,CON_612,Lithuania,Country/State,LIT,Lithuania,LTU
+262,1/138,1,848,138,Grand Duchy,ORG,mentioned in agt text,0,,,,,
+263,1/138,1,848,138,Luxembourg,GPE,mentioned in agt text,CON_611,Luxembourg,Country/State,LUX,Luxembourg,LUX
+264,1/138,1,848,138,Yugoslav Republic Macedonia,GPE,mentioned in agt text,CON_22,Yugoslavia,Country/State,YUG,,YUG
+265,1/138,1,848,138,Malaysia,GPE,mentioned in agt text,CON_12,Malaysia,Country/State,MAL,Malaysia,MYS
+266,1/138,1,848,138,Republic Malta,GPE,mentioned in agt text,CON_614,Malta,Country/State,MLT,Malta,MLT
+267,1/138,1,848,138,United Mexican States,GPE,mentioned in agt text,CON_268,Mexico,Country/State,MEX,Mexico,MEX
+268,1/138,1,848,138,Mongolia,GPE,mentioned in agt text,CON_608,Mongolia,Country/State,MON,Mongolia,MNG
+269,1/138,1,848,138,Montenegro,GPE,mentioned in agt text,CON_607,Montenegro,Country/State,MNG,Montenegro,MNE
+270,1/138,1,848,138,Kingdom Morocco,GPE,mentioned in agt text,CON_228,Morocco,Country/State,MOR,Morocco,MAR
+271,1/138,1,848,138,Kingdom Netherlands,GPE,mentioned in agt text,CON_10,Netherlands,Country/State,NTH,Netherlands,NLD
+272,1/138,1,848,138,New Zealand,GPE,mentioned in agt text,CON_276,New Zealand,Country/State,NEW,New Zealand,NZL
+273,1/138,1,848,138,Kingdom Norway,GPE,mentioned in agt text,CON_81,Norway,Country/State,NOR,Norway,NOR
+274,1/138,1,848,138,Oman,GPE,mentioned in agt text,CON_606,Oman,Country/State,OMA,Oman,OMN
+275,1/138,1,848,138,Republic,GPE,mentioned in agt text,0,,,,,
+276,1/138,1,848,138,Philippines,GPE,mentioned in agt text,CON_160,Philippines,Country/State,PHI,Philippines,PHL
+277,1/138,1,848,138,Republic Poland,GPE,mentioned in agt text,CON_603,Poland,Country/State,POL,Poland,POL
+278,1/138,1,848,138,Portuguese Republic,GPE,mentioned in agt text,CON_259,Portugal,Country/State,POR,Portugal,PRT
+279,1/138,1,848,138,Qatar,GPE,mentioned in agt text,CON_486,Qatar,Country/State,QAT,Qatar,QAT
+280,1/138,1,848,138,Romania,GPE,mentioned in agt text,CON_394,Romania,Country/State,,Romania,ROU
+281,1/138,1,848,138,Russian Federation,GPE,mentioned in agt text,CON_21,Russia,Country/State,RUS,Russian Federation,RUS
+282,1/138,1,848,138,Kingdom Saudi Arabia,GPE,mentioned in agt text,CON_419,Saudi Arabia,Country/State,SAU,Saudi Arabia,SAU
+283,1/138,1,848,138,Slovak Republic,GPE,mentioned in agt text,CON_592,Slovakia,Country/State,SLO,Slovakia,SVK
+284,1/138,1,848,138,Republic Slovenia,GPE,mentioned in agt text,CON_14,Slovenia,Country/State,SLV,Slovenia,SVN
+285,1/138,1,848,138,Republic South Africa,GPE,mentioned in agt text,CON_221,South Africa,Country/State,SAF,South Africa,ZAF
+286,1/138,1,848,138,Kingdom Spain,GPE,mentioned in agt text,CON_4,Spain,Country/State,SPN,Spain,ESP
+287,1/138,1,848,138,Kingdom Sweden,GPE,mentioned in agt text,CON_593,Sweden,Country/State,SWD,Sweden,SWE
+288,1/138,1,848,138,Swiss Confederation,ORG,mentioned in agt text,CON_202,Switzerland,Country/State,SWZ,Switzerland,CHE
+289,1/138,1,848,138,Republic Tajikistan,GPE,mentioned in agt text,CON_62,Tajikistan,Country/State,TAJ,Tajikistan,TJK
+290,1/138,1,848,138,Kingdom Thailand,GPE,mentioned in agt text,CON_295,Thailand,Country/State,THI,Thailand,THA
+291,1/138,1,848,138,Republic Tunisia,GPE,mentioned in agt text,CON_590,Tunisia,Country/State,TUN,Tunisia,TUN
+292,1/138,1,848,138,Republic Turkey,GPE,mentioned in agt text,CON_562,Turkey,Country/State,TUR,Turkey,TUR
+293,1/138,1,848,138,Turkmenistan,GPE,mentioned in agt text,CON_57,Turkmenistan,Country/State,TKM,Turkmenistan,TKM
+294,1/138,1,848,138,Ukraine,GPE,mentioned in agt text,CON_52,Ukraine,Country/State,UKR,Ukraine,UKR
+295,1/138,1,848,138,Oriental Republic Uruguay,GPE,mentioned in agt text,CON_594,Uruguay,Country/State,URU,Uruguay,URY
+296,1/138,1,848,138,United Kingdom Great Britain,GPE,mentioned in agt text,CON_19,United Kingdom,Country/State,UKG,United Kingdom of Great Britain and Northern Ireland,GBR
+297,1/138,1,848,138,Northern Ireland,GPE,mentioned in agt text,ENT_170,Northern Ireland,Entity,,United Kingdom of Great Britain and Northern Ireland,GBR
+298,1/138,1,848,138,United Arab Emirates,GPE,mentioned in agt text,CON_591,United Arab Emirates,Country/State,UAE,United Arab Emirates,ARE
+299,1/138,1,848,138,United States America,GPE,mentioned in agt text,CON_3,United States,Country/State,USA,United States of America,USA
+300,1/138,1,848,138,Republic Uzbekistan,GPE,mentioned in agt text,CON_54,Uzbekistan,Country/State,UZB,Uzbekistan,UZB
+301,1/138,1,848,138,Socialist Republic Viet Nam,GPE,mentioned in agt text,CON_297,Vietnam,Country/State,RVN,Viet Nam,VNM
+302,1/138,1,848,138,Asian Development Bank,ORG,mentioned in agt text,IGO_600,Asian Development Bank,Intergovernmental Organization,ADB,,
+303,1/138,1,848,138,Conference Interaction Confidence‐Building Measures,ORG,mentioned in agt text,0,,,,,
+304,1/138,1,848,138,Asia,LOC,mentioned in agt text,0,,,,,
+305,1/138,1,848,138,Collective Security Treaty Organisation,ORG,mentioned in agt text,IGO_598,Collective Security Treaty Organization,Intergovernmental Organization,CSTO,,
+306,1/138,1,848,138,Economic Cooperation Organization,ORG,mentioned in agt text,IGO_597,Economic Cooperation Organization,Intergovernmental Organization,ECO,,
+307,1/138,1,848,138,European Union,ORG,mentioned in agt text,IGO_5,European Union,Intergovernmental Organization,EU,,
+308,1/138,1,848,138,International Monetary Fund,ORG,mentioned in agt text,IGO_438,International Monetary Fund,Intergovernmental Organization,IMF,,
+309,1/138,1,848,138,Islamic Development Bank,ORG,mentioned in agt text,IGO_596,Islamic Development Bank,Intergovernmental Organization,ISDB,,
+310,1/138,1,848,138,North Atlantic Treaty Organization,ORG,mentioned in agt text,IGO_406,North Atlantic Treaty Organization,Intergovernmental Organization,NATO,,
+311,1/138,1,848,138,Organisation Islamic Cooperation,ORG,mentioned in agt text,IGO_226,Organisation of Islamic Cooperation,Intergovernmental Organization,OIC,,
+312,1/138,1,848,138,Organization Security Co‐operation,ORG,mentioned in agt text,IGO_50,Organization for Security and Cooperation in Europe,Intergovernmental Organization,OSCE,,
+313,1/138,1,848,138,Europe,LOC,mentioned in agt text,0,,,,,
+314,1/138,1,848,138,South Asian Association Regional Cooperation,ORG,mentioned in agt text,IGO_1096,South Asian Association for Regional Cooperation,Intergovernmental Organization,SAARC,,
+315,1/138,1,848,138,Shanghai Cooperation Organisation,ORG,mentioned in agt text,IGO_586,Shanghai Cooperation Organization,Intergovernmental Organization,SCO,,
+316,1/138,1,848,138,United Nations,ORG,mentioned in agt text,IGO_49,United Nations (General),Intergovernmental Organization,UN,,
+317,1/138,1,848,138,World Bank Group,ORG,mentioned in agt text,IGO_437,World Bank,Intergovernmental Organization,WB,,
